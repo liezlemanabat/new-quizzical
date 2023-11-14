@@ -211,4 +211,9 @@ footer > p {
         max-width: 500px;
         width: 100%;
     }
+
+    footer {
+        position: absolute;
+        width: 100%;
+    }
 }
